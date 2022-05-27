@@ -1,0 +1,158 @@
+{
+  "index.html": {
+    "file": "assets/index.5fb3b2e1.js",
+    "src": "index.html",
+    "isEntry": true,
+    "imports": [
+      "_lodash.212e8aaf.js",
+      "_mjml-browser.3becd21a.js"
+    ],
+    "dynamicImports": [
+      "_mjml-browser.3becd21a.js",
+      "node_modules/html2canvas/dist/html2canvas.esm.js",
+      "src/pages/Home/index.tsx",
+      "_index.f5cdd651.js",
+      "src/components/Login.tsx",
+      "src/components/Signup.tsx",
+      "src/components/UpdateProfile.tsx",
+      "src/components/ForgotPassword.tsx"
+    ],
+    "css": [
+      "assets/index.ddce40e8.css"
+    ]
+  },
+  "_lodash.212e8aaf.js": {
+    "file": "assets/lodash.212e8aaf.js"
+  },
+  "_mjml-browser.3becd21a.js": {
+    "file": "assets/mjml-browser.3becd21a.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_lodash.212e8aaf.js"
+    ]
+  },
+  "node_modules/html2canvas/dist/html2canvas.esm.js": {
+    "file": "assets/html2canvas.688138b8.js",
+    "src": "node_modules/html2canvas/dist/html2canvas.esm.js",
+    "isDynamicEntry": true
+  },
+  "src/pages/Home/index.tsx": {
+    "file": "assets/index.4042c647.js",
+    "src": "src/pages/Home/index.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_index.b536c53f.js",
+      "_Card.fe0a1029.js",
+      "_lodash.212e8aaf.js",
+      "_mjml-browser.3becd21a.js"
+    ],
+    "css": [
+      "assets/index.316d3f99.css"
+    ]
+  },
+  "_index.b536c53f.js": {
+    "file": "assets/index.b536c53f.js",
+    "imports": [
+      "index.html"
+    ],
+    "css": [
+      "assets/index.de90f097.css"
+    ]
+  },
+  "_Card.fe0a1029.js": {
+    "file": "assets/Card.fe0a1029.js",
+    "imports": [
+      "index.html"
+    ]
+  },
+  "_index.f5cdd651.js": {
+    "file": "assets/index.f5cdd651.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_index.b536c53f.js",
+      "_lodash.212e8aaf.js",
+      "_mjml-browser.3becd21a.js"
+    ],
+    "dynamicImports": [
+      "../packages/easy-email-extensions/lib/index3.js",
+      "node_modules/browser-image-compression/dist/browser-image-compression.mjs"
+    ],
+    "css": [
+      "assets/index.e7e0ceab.css"
+    ]
+  },
+  "src/components/Login.tsx": {
+    "file": "assets/Login.186cd710.js",
+    "src": "src/components/Login.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_Card.fe0a1029.js",
+      "_Form.0ac5660d.js",
+      "_lodash.212e8aaf.js",
+      "_mjml-browser.3becd21a.js"
+    ]
+  },
+  "_Form.0ac5660d.js": {
+    "file": "assets/Form.0ac5660d.js",
+    "imports": [
+      "_Card.fe0a1029.js",
+      "index.html"
+    ]
+  },
+  "src/components/Signup.tsx": {
+    "file": "assets/Signup.808a1fe1.js",
+    "src": "src/components/Signup.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_Card.fe0a1029.js",
+      "_Form.0ac5660d.js",
+      "_lodash.212e8aaf.js",
+      "_mjml-browser.3becd21a.js"
+    ]
+  },
+  "src/components/UpdateProfile.tsx": {
+    "file": "assets/UpdateProfile.cfeff64f.js",
+    "src": "src/components/UpdateProfile.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_Card.fe0a1029.js",
+      "_Form.0ac5660d.js",
+      "_lodash.212e8aaf.js",
+      "_mjml-browser.3becd21a.js"
+    ]
+  },
+  "src/components/ForgotPassword.tsx": {
+    "file": "assets/ForgotPassword.775181d0.js",
+    "src": "src/components/ForgotPassword.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_Card.fe0a1029.js",
+      "_Form.0ac5660d.js",
+      "_lodash.212e8aaf.js",
+      "_mjml-browser.3becd21a.js"
+    ]
+  },
+  "node_modules/browser-image-compression/dist/browser-image-compression.mjs": {
+    "file": "assets/browser-image-compression.e8b4808f.js",
+    "src": "node_modules/browser-image-compression/dist/browser-image-compression.mjs",
+    "isDynamicEntry": true
+  },
+  "../packages/easy-email-extensions/lib/index3.js": {
+    "file": "assets/index3.6d044663.js",
+    "src": "../packages/easy-email-extensions/lib/index3.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_index.f5cdd651.js",
+      "_lodash.212e8aaf.js",
+      "_mjml-browser.3becd21a.js",
+      "_index.b536c53f.js"
+    ]
+  }
+}
